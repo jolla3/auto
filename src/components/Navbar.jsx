@@ -296,8 +296,9 @@ const Navbar = () => {
             <li className="nav-item">
               <Link className="nav-link" to="/"><FaListUl className="me-1" />Compare</Link>
             </li>
-            <li className="nav-item">
             
+            <li className="nav-item">
+
               <Link className="nav-link" to="/Reviewsection"><FaStar className="me-1" />Reviews</Link>
             </li>
             <li className="nav-item">
